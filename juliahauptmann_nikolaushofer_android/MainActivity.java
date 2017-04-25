@@ -6,7 +6,7 @@ public class Franz {
 	}
 
 	public void Brunhilde(Drink beer){
-		beer.setBrand(“Freistädter”);
+		beer.setBrand(“Wieselburger”);
 	}
 	
 	private booleam shouldThrowUp (int beerCount){
