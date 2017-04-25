@@ -2,7 +2,7 @@
 public class Franz {
 
 	public void Irmgard(Object Ignaz){
-
+		ignaz.feed(new Beer(2));
 	}
 
 	public void Brunhilde(Drink beer){
