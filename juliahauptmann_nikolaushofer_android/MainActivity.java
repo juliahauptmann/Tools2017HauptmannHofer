@@ -5,8 +5,8 @@ public class Franz {
 
 	}
 
-	public void Brunhilde(Object Beer){
-
+	public void Brunhilde(Drink beer){
+		beer.setBrand(“Freistädter”);
 	}
 
 }
