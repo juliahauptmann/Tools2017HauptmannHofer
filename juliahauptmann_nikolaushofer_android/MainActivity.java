@@ -15,4 +15,5 @@ public class Franz {
 		} else{
 			return false;
 		} 
+	}
 }
