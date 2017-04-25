@@ -10,7 +10,7 @@ public class Franz {
 	}
 	
 	private booleam shouldThrowUp (int beerCount){
-		new Line line = new Line();
+		Line line = new Line();
 		if (beeCount > 20){
 			return true;
 		} else{
