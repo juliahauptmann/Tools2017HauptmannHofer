@@ -10,7 +10,11 @@ public class Franz {
 	}
 	
 	private booleam shouldThrowUp (int beerCount){
-
+		if (beeCount > 10){
+			return true;
+		} else{
+			return false;
+		} 
 	}
 
 }
