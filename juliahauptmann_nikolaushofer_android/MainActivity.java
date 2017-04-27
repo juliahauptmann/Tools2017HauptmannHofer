@@ -3,7 +3,8 @@ public class Franz {
 
 	public void Irmgard(Object Ignaz){
 		ignaz.feed(new Beer(2));
-		ingnaz.rename("Normaler Hund");
+		ignaz.rename("Normaler Hund");
+		ignaz.sell();
 	}
 
 	public void Brunhilde(Drink beer){
